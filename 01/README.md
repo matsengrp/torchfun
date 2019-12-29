@@ -18,3 +18,9 @@ You can enter arbitrary Python code, but if you run into a snag with that there 
 
 * [PyTorch tutorial](https://github.com/sotte/pytorch_tutorial)
 * [Pyro](https://pyro.ai/), a universal probabilistic programming language built on PyTorch
+
+
+## Organizational
+
+* How do we want this to work?
+* Do we want a Slack channel?
